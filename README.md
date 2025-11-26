@@ -56,7 +56,8 @@ This dashboard answers several critical business questions:
 
 
 # Dataset
--<a href= "https://github.com/Suresh-Note/Shopping-Trends/blob/main/shopping_trends.xlsx> Dataset view </a>
+
+-<a href= "https://github.com/Suresh-Note/Shopping-Trends/blob/main/shopping_trends.xlsx"> Dataset view </a>
 # Dashboard 
  
 
