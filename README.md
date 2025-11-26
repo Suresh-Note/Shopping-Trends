@@ -53,6 +53,13 @@ This dashboard answers several critical business questions:
 – Useful for regional marketing and demand forecasting.
 
 
+
+
+# Dataset
+-<a href= "https://github.com/Suresh-Note/Shopping-Trends/blob/main/shopping_trends.xlsx> Dataset view </a>
+# Dashboard 
+ 
+
 # 📈 Dashboard Components Explained
 
 Below is a detailed explanation of every visual element in the dashboard:
